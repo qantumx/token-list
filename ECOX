@@ -1,0 +1,17 @@
+mkdir -p src/tokens/solana
+cat > src/tokens/solana/5aDXRebKKZTe7uAyQUwARTZkSRnLa2nba73dLDFLEvZQ.json << 'EOF'
+{
+  "chainId": 101,
+  "address": "5aDXRebKKZTe7uAyQUwARTZkSRnLa2nba73dLDFLEvZQ",
+  "symbol": "ECOX",
+  "name": "EcoCoin",
+  "decimals": 9,
+  "logoURI": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAYAAAC...
+...CAYAAAC6D6ucSAkXFEQ64ghBBCiPmhHZAQ82Jlc358i8f/Dyh+roKNV9SSAAAAAElFTkSuQmCC",
+  "tags": ["utility-token"],
+  "extensions": {
+    "website": 
+    "twitter": "https://x.com/joinecocoin?s=21"
+  }
+}
+EOF
