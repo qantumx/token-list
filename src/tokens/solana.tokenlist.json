@@ -10,7 +10,7 @@
 +   "symbol": "ECOX",
 +   "name": "EcoCoin",
 +   "decimals": 9,
-+   "logoURI": "https://imgur.com/a/zqZNuM3.png",
++   "logoURI": "https://raw.githubusercontent.com/solido-x/ecocoin-tokenlist/main/assets/mainnet/5aDXRebKKZTe7uAyQUwARTZkSRnLa2nba73dLDFLEvZQ.png",
 +   "tags": ["community","utility"],
 +   "extensions": {
 +     "telegram": "https://t.me/solido_x",
